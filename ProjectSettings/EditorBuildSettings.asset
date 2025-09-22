@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/FullGame/Scenes/Main Menu.unity
+    guid: d6016cbb779e99e48bf384386441f88e
+  - enabled: 1
+    path: Assets/FullGame/Scenes/CharacterCreator.unity
+    guid: ac3eb2eb8eb1a42218b7181163923104
+  - enabled: 1
+    path: Assets/FullGame/Scenes/LeaderboardMenu.unity
+    guid: 475249e769fd13c46910e7c806e510f5
+  - enabled: 1
+    path: Assets/FullGame/Scenes/Level 1.unity
+    guid: d92b0eb315bd24eab989b5e9429f630a
+  - enabled: 1
+    path: Assets/FullGame/Scenes/Level 2.unity
+    guid: 20f6eeb3b495a475ca1ee758a16f0c3e
+  - enabled: 1
+    path: Assets/FullGame/Scenes/Level 3.unity
+    guid: d6d489104f30a4a7aa294b82a4cb001d
+  - enabled: 1
+    path: Assets/FullGame/Scenes/Level 4.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  m_configObjects: {}
